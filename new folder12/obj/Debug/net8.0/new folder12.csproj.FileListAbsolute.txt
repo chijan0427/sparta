@@ -1,0 +1,14 @@
+/Users/t2023-m0012/new folder12/bin/Debug/net8.0/new folder12
+/Users/t2023-m0012/new folder12/bin/Debug/net8.0/new folder12.deps.json
+/Users/t2023-m0012/new folder12/bin/Debug/net8.0/new folder12.runtimeconfig.json
+/Users/t2023-m0012/new folder12/bin/Debug/net8.0/new folder12.dll
+/Users/t2023-m0012/new folder12/bin/Debug/net8.0/new folder12.pdb
+/Users/t2023-m0012/new folder12/obj/Debug/net8.0/new folder12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/t2023-m0012/new folder12/obj/Debug/net8.0/new folder12.AssemblyInfoInputs.cache
+/Users/t2023-m0012/new folder12/obj/Debug/net8.0/new folder12.AssemblyInfo.cs
+/Users/t2023-m0012/new folder12/obj/Debug/net8.0/new folder12.csproj.CoreCompileInputs.cache
+/Users/t2023-m0012/new folder12/obj/Debug/net8.0/new folder12.dll
+/Users/t2023-m0012/new folder12/obj/Debug/net8.0/refint/new folder12.dll
+/Users/t2023-m0012/new folder12/obj/Debug/net8.0/new folder12.pdb
+/Users/t2023-m0012/new folder12/obj/Debug/net8.0/new folder12.genruntimeconfig.cache
+/Users/t2023-m0012/new folder12/obj/Debug/net8.0/ref/new folder12.dll
